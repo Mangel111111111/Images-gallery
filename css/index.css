@@ -2,9 +2,12 @@ header {
     text-align: center;
 }
 img {
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
 }
 table {
     text-align: center;
+}
+td{
+width: 400px;
 }
