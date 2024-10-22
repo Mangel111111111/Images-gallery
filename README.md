@@ -7,5 +7,5 @@ This project aims to create a responsive web page that showcases a collection of
 - Responsive design that adapts to various screen sizes
 
 ## Installation
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Mangel111111111/Images-gallery.git
 
