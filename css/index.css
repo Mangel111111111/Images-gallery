@@ -11,3 +11,9 @@ table {
 td{
 width: 400px;
 }
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
